@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "海 [2024 Remaster]",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2025-12-27T10:20:44.487430Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "海",
+      "artist": "吳國敬",
+      "has_synced": false,
+      "path": "select/01_海_吳國敬.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "海",
+      "artist": "吉田 美奈子",
+      "has_synced": false,
+      "path": "select/02_海_吉田_美奈子.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "海",
+      "artist": "my little airport",
+      "has_synced": true,
+      "path": "select/03_海_my_little_airport.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "海",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/04_海_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "海",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/05_海_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "海",
+      "artist": "薄荷綠工廠",
+      "has_synced": true,
+      "path": "select/06_海_薄荷綠工廠.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "海",
+      "artist": "FS (Fuying & Sam)",
+      "has_synced": true,
+      "path": "select/07_海_FS_(Fuying_&_Sam).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "海",
+      "artist": "Xiao Yu",
+      "has_synced": true,
+      "path": "select/08_海_Xiao_Yu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛をこめて。海",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/09_愛をこめて。海_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "花 海",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/10_花_海_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "海．地 - Sea - Land",
+      "artist": "RubberBand",
+      "has_synced": true,
+      "path": "select/11_海.地_-_Sea_-_Land_RubberBand.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "海．地",
+      "artist": "RubberBand",
+      "has_synced": true,
+      "path": "select/12_海.地_RubberBand.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "海 - Umi",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/13_海_-_Umi_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "愛をこめて。海",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/14_愛をこめて。海_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "愛をこめて。海",
+      "artist": "Teshima, Aoi",
+      "has_synced": true,
+      "path": "select/15_愛をこめて。海_Teshima,_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "風.火.海",
+      "artist": "陳潔儀",
+      "has_synced": false,
+      "path": "select/16_風.火.海_陳潔儀.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "12.愛をこめて。海",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/17_12.愛をこめて。海_手嶌葵.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_海_サザンオールスターズ.txt"
+    }
+  ]
+}
